@@ -1,0 +1,28 @@
+image: trenton/hugo-extended:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+pages:
+  script:
+  - rm -rf public
+  - git clone --recursive https://$GITHUB_ACCESS@github.com/HEC-Plasma/hec-plasma.github.io.git public
+  - cd public
+  - git checkout master
+  - git reset --hard origin/master
+  - cd ..
+  - hugo
+  - cd public
+  - git config user.email "<cfsa.gitlab@gmail.com>"
+  - git config --global user.name "HEC-Plasma"
+  - git add -A
+  - git commit -am "Build from $CI_SERVER_NAME $CI_PIPELINE_ID $CI_COMMIT_SHORT_SHA" || true
+  - git push
+  #artifacts:
+  #  paths:
+  #  - public
+  only:
+  - master
+  tags:
+    - ubuntu
+    - gfortran
