@@ -9,7 +9,7 @@ widget = "blank"
 The Consortium academic members are
 
 - Prof. Tony Arber (Chair) University of Warwick
-- Dr C. M. Roach, CCFE
+- Dr. C. M. Roach, CCFE
 - Dr. B. Dudson, University of York
 - Prof. J. Chittenden, Imperial College
 - Prof. P. A. Norreys, University of Oxford
@@ -17,9 +17,9 @@ The Consortium academic members are
 - Prof. P. McKenna, University of Strathclyde
 - Dr. C. P. Ridgers, University of York
 - Prof. H. Wilson, University of York
-- Dr R. Scott, RAL
+- Dr. R. Scott, RAL
 - Prof. M. Barnes, Oxford
-- Dr R. Vann, York
+- Dr. R. Vann, York
 - Dr. David Dickinson, University of York
 - Dr. Rober Kingham, Imperial College
 - Dr. Adrian Jackson, EPCC
@@ -30,5 +30,6 @@ The Consortium academic members are
 - Dr. Elisabetta Boella, Lancaster University
 - Dr. Tom Goffrey, University of Warwick
 - Prof. Dino Jaroszynski, University of Starthclyde
-- Dr Satyabrata Kar, QUB
+- Dr. Satyabrata Kar, QUB
 - Prof. Sandra Chapman, University of Warwick
+- Dr. Animesh Datta, University of Warwick
