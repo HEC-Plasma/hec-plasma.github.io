@@ -8,8 +8,8 @@ pages:
   - rm -rf public
   - git clone --recursive https://$GITHUB_ACCESS@github.com/HEC-Plasma/hec-plasma.github.io.git public
   - cd public
-  - git checkout master
-  - git reset --hard origin/master
+  - git checkout main
+  - git reset --hard origin/main
   - cd ..
   - hugo
   - cd public
@@ -22,7 +22,7 @@ pages:
   #  paths:
   #  - public
   only:
-  - master
+  - main
   tags:
     - ubuntu
     - gfortran
