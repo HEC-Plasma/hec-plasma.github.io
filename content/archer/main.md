@@ -1,30 +1,34 @@
 +++
-title = "ARCHER Access"
+title = "ARCHER2 Access"
 headless = false  # This file represents a page section.
 widget = "blank"
 [design]
   columns = "1"
 +++
 
-In order to get an account, a potential user needs to know two things: our 
-project code (e281), and our project password. The password you can get from 
-someone else in your group or by sending an email to
-[HEC Consortium](mailto:t.d.arber@warwick.ac.uk?Subject=HEC%20Consortium). Users can
-register at the same time for an account on the admin website, and on the 
-service machine. They need both. This is what a new user should do.
+In order to get an account, a potential user needs to know our project code (e281)
 
-- Go to: https://www.archer.ac.uk/safe. This is the page for registering on
-  both HECToR and ARCHER.
-- Click on the signup link at the bottom of the login page
+Users can
+register at the same time for an account on the admin website SAFE, and on the 
+service machine. They need both. 
+
+Full guidance can be found at 
+https://docs.archer2.ac.uk/quick-start/quickstart-users/
+
+- Go to: https://safe.epcc.ed.ac.uk/signup.jsp 
 - Fill in the personal details
-- Enter the project code and the project password
-- Enter a preferred username for the service machine
 - Click submit
 
 Now the user will be asked to accept the Terms and Conditions of Access by 
 clicking the appropriate button. After this, they will get an acknowledgment, 
 and an email with their password to the admin website. They should change this 
-password as soon as possible. For the user’s account on the service machine to 
+password as soon as possible. 
+
+- Request an ARCHER2 login account in e281
+
+See https://docs.archer2.ac.uk/quick-start/quickstart-users/#request-an-archer2-login-account for step by step guidance
+
+For the user’s account on the service machine to 
 be created this will need to be authorised by the Plasma HEC Chair.
 
 If you are a PDRA, PhD student or on a Fellowship, i.e. not academic staff, 
