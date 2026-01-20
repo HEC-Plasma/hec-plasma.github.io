@@ -34,7 +34,7 @@ be created this will need to be authorised by the Plasma HEC Chair.
 If you are a PDRA, PhD student or on a Fellowship, i.e. not academic staff, 
 then before your account is authorised a member of academic staff who is an 
 HEC member in your group needs to send an email to
-[HEC Consortium](mailto:t.d.arber@warwick.ac.uk?Subject=HEC%20Consortium)
+[HEC Consortium](mailto:d.dickinson@york.ac.uk?Subject=HEC%20Consortium)
 briefly explaining your project, and stating your current job and employer.
 This email only needs to be a few sentences. For academics, and researchers in
 CCFE or RAL, your account can be authorised without such an email.
@@ -75,7 +75,7 @@ It is very common that new users wish to join an existing project, e.g. to
 work with a colleague or supervisor who has already been allocated a project. 
 To be allowed to join an existing project the PI of the project must send an 
 email to
-[New Project Member](mailto:t.d.arber@warwick.ac.uk?Subject=HEC%20Consortium)
+[New Project Member](mailto:d.dickinson@.ac.uk?Subject=HEC%20Consortium)
 stating the uid and full name of the new member.
 It is the PI’s responsibility to ensure that the new users understands how to 
 use the resource.
