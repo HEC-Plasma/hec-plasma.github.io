@@ -18,7 +18,7 @@ meetings and software development. It also manages a block allocation of
 national super-computer time to be used for plasma physics research.
 
 All enquiries about Plasma HEC should be sent to
-[HEC Consortium Enquiry](mailto:t.d.arber@warwick.ac.uk?Subject=HEC%20Consortium%20enquiry)
+[HEC Consortium Enquiry](mailto:d.dickinson@york.ac.uk?Subject=HEC%20Consortium%20enquiry)
 
 <img src="/img/EPSRC+logo.png" width="20%" />
 <img src="/img/archer2_logo.png" width="20%" />
