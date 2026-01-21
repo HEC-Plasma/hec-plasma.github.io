@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "ARCHER"
-  url = "/archer"
+  name = "ARCHER2"
+  url = "/archer2"
   weight = 20
 
 [[main]]
