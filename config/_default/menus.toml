@@ -14,11 +14,6 @@
   weight = 20
 
 [[main]]
-  name = "Advisory Board"
-  url = "/board"
-  weight = 40
-
-[[main]]
   name = "Members"
   url = "/members"
   weight = 50
