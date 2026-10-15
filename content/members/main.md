@@ -6,30 +6,28 @@ widget = "blank"
   columns = "1"
 +++
 
-The Consortium academic members are
+The Consortium academic members (investigators) are
 
-- Prof. Tony Arber (Chair) University of Warwick
-- Dr. C. M. Roach, CCFE
-- Dr. B. Dudson, University of York
+- Dr. David Dickinson (Chair), University of York
+- Prof. Tony Arber University of Warwick
+- Dr. P Hill, University of York
+- Prof. C. Ridgers, University of York
+- Dr. C. M. Roach, UKAEA
 - Prof. J. Chittenden, Imperial College
 - Prof. P. A. Norreys, University of Oxford
 - Dr. B.F. McMillan, University of Warwick
 - Prof. P. McKenna, University of Strathclyde
-- Dr. C. P. Ridgers, University of York
-- Prof. H. Wilson, University of York
 - Dr. R. Scott, RAL
 - Prof. M. Barnes, Oxford
-- Dr. R. Vann, York
-- Dr. David Dickinson, University of York
-- Dr. Rober Kingham, Imperial College
-- Dr. Adrian Jackson, EPCC
-- Prof. Zulfikar Najmudin, Imperial College
+- Dr. R. Vann, University of York
+- Dr. Robert Kingham, Imperial College
 - Prof. Roman Walczak, University of Oxford
-- Prof. Zheng-Ming Sheng, University of Strathclyde
 - Prof. Phillippa Browning, University of Manchester
-- Dr. Elisabetta Boella, Lancaster University
-- Dr. Tom Goffrey, University of Warwick
 - Prof. Dino Jaroszynski, University of Starthclyde
 - Dr. Satyabrata Kar, QUB
-- Prof. Sandra Chapman, University of Warwick
 - Dr. Animesh Datta, University of Warwick
+- Dr. J. Omotani, UKAEA
+- Prof. S. M. Hooker, University of Oxford
+- Dr. Elisabetta Boella, Lancaster University
+- Prof. Howard Wilson, University of Yotk
+- Prof. M. Cecconello, University of Durham
