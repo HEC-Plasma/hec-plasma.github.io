@@ -14,6 +14,11 @@
   weight = 20
 
 [[main]]
+  name = "NCRs"
+  url = "/ncrs"
+  weight = 20
+
+[[main]]
   name = "Members"
   url = "/members"
   weight = 50
